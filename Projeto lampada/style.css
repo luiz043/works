@@ -1,0 +1,17 @@
+header,main{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+button{
+    width: 80px;
+    margin-right: 5px;
+    font-family: 'Courier New', Courier, monospace;
+    box-shadow: 2px 2px 2px;
+    border-radius: 5px;
+}
+button:hover{
+    background-color: cadetblue;
+}
+
+    
